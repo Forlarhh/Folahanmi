@@ -8,36 +8,26 @@ Hi, I'm Fola, a graduate of Physics, but now a DevOps Engineer with experience i
 - Tinkering around and automating processes.
 - Helping people get into the DevOps space one article at a time, one shared resource at a time.
 
-<h2 align="center">  <strong> im just a girl  </strong></h2> 
+<h2 align="center">  <strong> WHERE MAGIC HAPPENS </strong></h2> 
 
 ## Certifications
 Certificates help fill knowledge gaps, give hands-on experience and increase my value as an engineer. Below are some certificates I have earned:
 
-- [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/2840723d-011e-4029-b07a-8e289a08f451)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/f2c16bf1-7c17-4e3c-a643-77406a05eee7)
-- [kindly view others](https://www.credly.com/users/chioma-mary-mbaoma)
+- [kindly view](https://www.credly.com/users/folahanmi-akinsola)
 
 ## Community 
 Making an impact in the following communities:
 
 - Cloud Native Community Foundation (CNCF)
-- She Code Africa (SCA)
 - Google Developer Groups, Cloud (Lagos)
   
 ## Extra
 - 🌱 I’m currently taking a deeper dive in **Kubernetes technologies** thanks to [The Shubhra Kar Linux Foundation Training (LiFT)](https://www.linuxfoundation.org/about/lift-scholarships)
-- 👯 I manage dev teams as a technical PM
-- 📫 How to reach me **mmaryraphaella@gmail.com**
-- 📁 Check out my [portfolio](https://linktr.ee/mbaoma)
-- 📖 Read my [articles](https://omarrrz-lounge.hashnode.dev/)
+- 📫 How to reach me **forlarhh@gmail.com**
 
-## 🔥 Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mbaoma&theme=cobalt)](https://git.io/streak-stats)
-<br>
 
 ## Socials 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mbaoma-chioma-mary)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/mba_oma)
-[<img src="https://komarev.com/ghpvc/?username=tannaye&label=Profile%20views&color=0e75b6&style=flat" alt="mbaoma" />](https://github.com/Mbaoma/Mbaoma)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/folakinsola)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/forlarhh?s=21)
 
 Ganbate ✌!! <br>
